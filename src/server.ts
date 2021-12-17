@@ -7,8 +7,8 @@ dotenv.config();
 
 const server = express();
 
-server.set("view engine", "mustache");
-server.set("views", path.join(__dirname, "views"));
+server.set("view engine", "mustache"); //confira o template
+server.set("views", path.join(__dirname, "views"));//onde vai ser as paginas de visualizações
 server.engine("mustache", mustache());
 
 server.use(express.static(path.join(__dirname, "../public")));
