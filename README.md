@@ -30,6 +30,7 @@ npm install --save-dev copyfiles
 
 npm init -y
 tsc --init // para criar arquivo tsconfig.json
+
 configurar o arquivo tsconfig.json "linhas descomentadas foram as alteradas ou já estavam e indicar pasta src e dist"
 
 npm install express mustache-express dotenv
