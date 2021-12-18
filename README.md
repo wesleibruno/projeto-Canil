@@ -22,6 +22,8 @@ dentro da pasta partials criar arquivo header.mustache e footer.mustache
 
 criar pasta helpers em src /funções pra auxiliares
 
+dentro da pasta models criar arquivo com nome pet.ts
+
 
 
 npm init -y
