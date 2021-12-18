@@ -24,6 +24,8 @@ criar pasta helpers em src /funções pra auxiliares
 
 dentro da pasta models criar arquivo com nome pet.ts
 
+npm install --save-dev copyfiles
+
 
 
 npm init -y
