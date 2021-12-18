@@ -20,6 +20,8 @@ dentro da pasta views criar a pasta pages e pasta partials
 
 dentro da pasta partials criar arquivo header.mustache e footer.mustache
 
+criar pasta helpers em src /funções pra auxiliares
+
 
 
 npm init -y
