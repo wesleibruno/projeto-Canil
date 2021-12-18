@@ -10,6 +10,12 @@ Projeto em Node  + Typescript
 
 `npm run start-dev`
 
+criar rotas: 
+dentro da pasta src criar pasta "routes"
+dentro da pasta routes criar arquivo index.ts
+
+na pasta src criar pasta controllers e pasta models
+
 
 npm init -y
 tsc --init // para criar arquivo tsconfig.json
@@ -25,6 +31,7 @@ criar pasta src e dentro dela o arquivo server.ts
 nodemon 
 typescript
 ts-node
+# projeto-Canil
 # projeto-Canil
 # projeto-Canil
 # projeto-Canil
