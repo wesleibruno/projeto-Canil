@@ -16,6 +16,11 @@ dentro da pasta routes criar arquivo index.ts
 
 na pasta src criar pasta controllers e pasta models
 
+dentro da pasta views criar a pasta pages e pasta partials
+
+dentro da pasta partials criar arquivo header.mustache e footer.mustache
+
+
 
 npm init -y
 tsc --init // para criar arquivo tsconfig.json
